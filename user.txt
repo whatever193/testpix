@@ -1,0 +1,4 @@
+Initdata:query_id=AAHSx-NvAgAAANLH42-SIerh&user=%7B%22id%22%3A6172166098%2C%22first_name%22%3A%22Ta%22%2C%22last_name%22%3A%22Ta%22%2C%22username%22%3A%22conkem%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1716501904&hash=b386c315d55716c43c7630307c4ef0aac56515a5d0214254d7188d45c22d709f
+Secret:e935886e876be612d829bca8bcccd0e469184f3c2ca44429f2923b066975fe56
+Tg-Id:6172166098
+Username:conkem
